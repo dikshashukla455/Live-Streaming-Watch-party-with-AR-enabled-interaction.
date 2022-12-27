@@ -1,0 +1,18 @@
+# Live-Streaming-Watch-party-with-AR-enabled-interaction.
+ About the Project (Playcanvas, Javascript, & Three.Js):
+
+This project's main goal is to boost user interaction while they view live streaming videos online. In this instance, the user may watch live streaming video with his friends in a virtual private space where they can chat, connect, and interact. Furthermore, users may make extensive use of the AR element that is pre-loaded in the video portion while engaging.
+
+Watch Party room will be enabled with the list of features.
+
+Chat Box with reactions
+Voice/Video rooms
+AR filters
+
+    AR filter options to interact over the video call in watch party by selecting one of the available filters that will stream over the watch party
+Interaction with users via audio/video will take place in the same room, with a tile for each member who joined the watch party.
+
+Evaluation Criteria:
+
+1. We Use Third Party SDK’s which are specifically designed for the features that we want. We implement internal logic to support application architecture by utilizing the SDK’s features.
+2. Estimated number of developers : 2
